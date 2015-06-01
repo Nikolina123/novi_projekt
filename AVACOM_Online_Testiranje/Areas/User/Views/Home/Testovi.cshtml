@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "Testovi";
+}
+
+@using AVACOM_Online_Testiranje.Areas.User.Models
+@model AVACOM_Online_Testiranje.Areas.User.Models.TestStatistikaVM
+
+<div class="row">
+
+    <div class="col-sm-8 col-md-8 col-lg-8">
+        <h2>Testovi</h2>
+    </div>
+    <div class="col-sm-4 col-md-4 col-lg-4">
+        <a href="/User/Test/Index" class="btn btn-primary pull-right" style="margin-top:1.5em;">Novi test</a>
+    </div>
+
+</div>
+
+<hr />
+
+<div class="row">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Vrijeme Pocetka</th>
+                <th>Vrijeme Zavrsetka</th>
+                <th>Oblasti</th>
+                <th>Tacnih Odgovora</th>
+                <th>Rezultat</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                int c = Model.Testovi.Count;
+            }
+            @for (int i = 0; i < c; i++)
+            {
+                <tr>
+                    <td>@Model.Testovi[i].VrijemePocetka</td>
+                    <td>@Model.Testovi[i].VrijemeZavrsetka</td>
+                    <td>
+                        @foreach (TestStatistikaVM.OblastInfo o in Model.Testovi[i].Oblasti)
+                        {
+                            @o.Naziv <br />
+                        }
+                    </td>
+                    <td>@Model.Testovi[i].BrojTacnihOdgovora/10</td>
+                    <td>@Model.Testovi[i].Rezultat/100</td>
+
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+</div>
+

@@ -1,0 +1,23 @@
+﻿@using AVACOM_Online_Testiranje.Areas.User.Models
+@model AVACOM_Online_Testiranje.Areas.User.Models.PitanjeOdgovorVM.PitanjeInfo
+
+<table class="table table-striped">
+    <tbody>
+        <tr>
+            <td>@Model.Pitanje</td>
+        </tr>
+        <tr>
+            <td>
+                @for (int i = 0; i < Model.Odgovori.Count; i++)
+                {
+                    <div class="radio">
+                        <label>
+                            <input type="radio" name="oznaceniOdgovori" value="@Model.Odgovori[i].Id">
+                            @Model.Odgovori[i].Odgovor
+                        </label>
+                    </div>
+                }
+            </td>
+        </tr>
+    </tbody>
+</table>

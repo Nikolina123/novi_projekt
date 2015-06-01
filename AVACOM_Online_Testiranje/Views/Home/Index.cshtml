@@ -1,0 +1,57 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link href="~/Content/css/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="col-lg-6 col-md-offset-3">
+            <br />
+            <br />
+            <div class="panel panel-primary">
+                <div class="panel-heading">Prijava na sistem</div>
+                <div class="panel-body">
+                    <form action="/Home/Provjera" method="post" class="form-horizontal">
+                        <div class="form-group">
+                            <label for="usr" class="col-sm-4 col-md-4  ">Korisnicko Ime</label>
+                            <div class="col-sm-6">
+                                <input type="text" class="form-control" name="usr" placeholder="Korisnicko Ime">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="pass" class="col-sm-4 col-md-4">Lozinka</label>
+                            <div class="col-sm-6">
+                                <input type="password"  class="form-control" name="pass" placeholder="Lozinka">
+                            </div>
+                        </div>
+                        <div style="color:red" class="col-sm-offset-4 col-sm-10">
+                            @Html.ValidationSummary()
+                        </div>
+                        <div class="form-group">
+                            <div class="col-sm-offset-4 col-sm-12">
+                                <button type="submit" class="btn btn-primary ">Login</button>
+                                    <a href="/Registracija">Registracija</a>
+                            </div>
+                            
+                        </div>
+                    </form>
+                </div>
+                </div>
+            </div>
+        </div>
+    
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

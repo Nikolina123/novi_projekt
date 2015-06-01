@@ -1,0 +1,84 @@
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\AVACOM_Online_Testiranje.dll.config
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\AVACOM_Online_Testiranje.dll
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\AVACOM_Online_Testiranje.pdb
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Helpers.dll
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Mvc.dll
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Razor.dll
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.Deployment.dll
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.dll
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.Razor.dll
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Razor.xml
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.xml
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.Deployment.xml
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.Razor.xml
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Helpers.xml
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Mvc.xml
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.dll
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.pdb
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\EntityFramework.dll
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\EntityFramework.SqlServer.dll
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\EntityFramework.xml
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\EntityFramework.SqlServer.xml
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.csprojResolveAssemblyReference.cache
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.Migrations.InitialCreate.resources
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.csproj.GenerateResource.Cache
+c:\users\haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.Migrations._66.resources
+C:\Users\Haris\documents\visual studio 2013\Projects\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.Migrations._44.resources
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\AVACOM_Online_Testiranje.dll.config
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\AVACOM_Online_Testiranje.dll
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\AVACOM_Online_Testiranje.pdb
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\EntityFramework.dll
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\EntityFramework.SqlServer.dll
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Helpers.dll
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Mvc.dll
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Razor.dll
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.dll
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.Razor.dll
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\EntityFramework.xml
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\EntityFramework.SqlServer.xml
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Razor.xml
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.xml
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.Razor.xml
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Helpers.xml
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Mvc.xml
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.csprojResolveAssemblyReference.cache
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.Migrations.InitialCreate.resources
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.Migrations._66.resources
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.Migrations._44.resources
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.csproj.GenerateResource.Cache
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.dll
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.pdb
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.Migrations._2.resources
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.Migrations._3.resources
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.Migrations._4.resources
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.Migrations.sa.resources
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.Migrations.sajj.resources
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.Migrations.sajj5.resources
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.Migrations.sajj55.resources
+C:\Users\hashe\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.Migrations.sajj555.resources
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\AVACOM_Online_Testiranje.dll.config
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\AVACOM_Online_Testiranje.dll
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\AVACOM_Online_Testiranje.pdb
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\EntityFramework.dll
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\EntityFramework.SqlServer.dll
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Helpers.dll
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Mvc.dll
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Razor.dll
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.dll
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.Razor.dll
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\EntityFramework.xml
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\EntityFramework.SqlServer.xml
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Razor.xml
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.xml
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Webpages.Razor.xml
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Helpers.xml
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\bin\System.Web.Mvc.xml
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.csprojResolveAssemblyReference.cache
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.dll
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.pdb
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.Migrations._222.resources
+C:\Users\Haris\Desktop\AVACOM_Online_Testiranje\AVACOM_Online_Testiranje\obj\Debug\AVACOM_Online_Testiranje.csproj.GenerateResource.Cache

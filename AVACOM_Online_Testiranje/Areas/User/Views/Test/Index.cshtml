@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+@using AVACOM_Online_Testiranje.Models
+@model List<AVACOM_Online_Testiranje.Models.Oblast>
+
+    <div class="row">
+
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Info</h3>
+            </div>
+            <div class="panel-body">
+                <div class="col-sm-4 col-md-4 col-lg-4">
+                    <h4>Broj pitanja: <b>10</b></h4>
+                </div>
+
+                <div class="col-sm-8 col-md-8 col-lg-8">
+                    <label>Oblasti</label>
+                    <form id="frmOblasti" action="/User/Test/Test" method="post">
+
+                        @foreach (Oblast item in Model)
+                        {
+                            <div class="checkbox">
+                                <label>
+                                    <input type="checkbox" name="odabir" value="@item.Id"> @item.Naziv
+                                </label>
+                            </div>
+                        }
+                    </form>
+                    <div style="color:red;">
+                        @Html.ValidationSummary()
+                    </div>
+                </div>
+
+            </div>
+            <div class="panel-footer" style="text-align:center">
+                <input type="submit" form="frmOblasti" value="Pokreni" class="btn btn-primary" style="width:10em;" />
+            </div>
+        </div>
+    </div>
+
